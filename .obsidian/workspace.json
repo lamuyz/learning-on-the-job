@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收数据/ICB response scRNA-seq 数据收集.md",
+                "file": "收数据/ICB response 数据内容详解.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ICB response scRNA-seq 数据收集"
+              "title": "ICB response 数据内容详解"
             }
           }
         ]
@@ -190,6 +190,8 @@
   },
   "active": "e965bfcde5eb26ba",
   "lastOpenFiles": [
+    "未命名.md",
+    "收数据/ICB response 数据内容详解.md",
     "收数据/ICB response scRNA-seq 数据收集.md",
     "收数据"
   ]
