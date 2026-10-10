@@ -1,6 +1,5 @@
 # ICB response scRNA-seq 数据收集
 
-今天主要建立了 **ICB（Immune Checkpoint Blockade，免疫检查点阻断）+ scRNA-seq（单细胞 RNA 测序）+ clinical response（临床治疗反应）** 这一类研究的基础知识框架，并学习了如何从 review（综述）中系统寻找可用数据集。
 
 ## 1. ICB 是什么
 
@@ -97,7 +96,7 @@ ICB 与 TME 关系非常紧密，因为 ICB 主要不是直接杀死肿瘤，而
 
 如果能找到治疗前就与 response 相关的细胞或分子特征，就可能帮助预测患者是否更可能从 ICB 获益。
 
-## 5. scRNA-seq 为什么能研究 cell state（细胞状态）
+## 5. scRNA-seq 为什么能研究 cell state
 
 scRNA-seq 可以获得每个细胞独立的 **gene expression profile（基因表达谱）**。
 
@@ -110,14 +109,14 @@ Cell A
 GZMB ↑
 PRF1 ↑
 NKG7 ↑
-→ cytotoxic state（细胞毒状态）
+→ cytotoxic state
 
 Cell B
 PDCD1 ↑
 LAG3 ↑
 HAVCR2 ↑
 TOX ↑
-→ exhausted-like state（耗竭样状态）
+→ exhausted-like state
 ```
 
 所以分析逻辑是：
@@ -132,7 +131,7 @@ infer cell state（推断细胞状态）
 
 scRNA-seq 不只是区分“是什么细胞”，还可以研究“这个细胞现在处于什么功能状态”。
 
-## 6. ICB resistance（ICB 耐药）不只来自 TME
+## 6. ICB resistance 不只来自 TME
 
 ICB resistance 可以来自两个层面：
 
@@ -272,7 +271,7 @@ Response 能否对应到 patient/sample？
 
 全部满足，才真正接近老师需要的数据集。
 
-## 11. 今天最重要的方法论收获
+## 11. 方法论收获
 
 今天最大的认识是：
 

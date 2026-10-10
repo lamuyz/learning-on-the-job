@@ -128,8 +128,6 @@ Post-treatment
 
 ## 5. Response 不是通过 scRNA-seq 判断出来的
 
-这是今天非常重要的认识。
-
 **Response（治疗反应 / 疗效）** 通常是通过 clinical assessment（临床评估）得到的，而不是通过单细胞样本直接判断。
 
 常见做法是：
@@ -267,7 +265,6 @@ scRNA-seq
 - response mechanism（应答机制）
     
 - resistance mechanism（耐药机制）
-    
 
 ---
 
@@ -327,9 +324,8 @@ Baseline、on-treatment、post-treatment 的 samples，本质上都可以用来�
 
 ---
 
-## 11. 今天形成的完整逻辑
+## 11. 完整逻辑
 
-你现在可以把整个研究设计理解成：
 
 ```text
 Patient（患者）
@@ -350,7 +346,7 @@ Patient（患者）
       TME / cell states / pathways
 ```
 
-然后研究者把这两部分关联起来：
+关联两部分：
 
 ```text
 Clinical outcome（临床结局）
@@ -359,5 +355,3 @@ Single-cell biology（单细胞生物学）
 ↓
 理解 response / resistance
 ```
-
-这也是为什么你现在收集的 ICB response scRNA-seq datasets（ICB 疗效相关单细胞数据集）这么有价值：它们把 **临床疗效** 和 **单细胞层面的肿瘤微环境** 联系在了一起。
