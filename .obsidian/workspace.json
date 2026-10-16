@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/T-cells-atlas/Paper notes.md",
+                "file": "Literature/T-Cell-Epigenetic-Regulation/Biological Background.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paper notes"
+              "title": "Biological Background"
             }
           }
         ]
@@ -191,9 +191,12 @@
   "active": "e965bfcde5eb26ba",
   "lastOpenFiles": [
     "Literature/T-cells-atlas/Biological Background.md",
+    "Literature/T-Cell-Epigenetic-Regulation/Biological Background.md",
+    "Literature/T-Cell-Epigenetic-Regulation/Paper notes.md",
+    "Literature/T-cells-atlas/Paper notes.md",
+    "Literature/T-Cell-Epigenetic-Regulation",
     "ICB/ICB response scRNA-seq 数据收集.md",
     "ICB/ICB response 数据内容详解.md",
-    "Literature/T-cells-atlas/Paper notes.md",
     "articles/T-cells-atlas/Science2021.md",
     "Literature/T-cells-atlas",
     "Literature",
