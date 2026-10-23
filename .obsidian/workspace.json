@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/T-Cell-Epigenetic-Regulation/Biological Background.md",
+                "file": "Literature/eRNA & Enhancer Mechanism/Biological Background.md",
                 "mode": "source",
                 "source": false
               },
@@ -190,9 +190,12 @@
   },
   "active": "e965bfcde5eb26ba",
   "lastOpenFiles": [
-    "Literature/T-cells-atlas/Biological Background.md",
     "Literature/T-Cell-Epigenetic-Regulation/Biological Background.md",
+    "Literature/eRNA & Enhancer Mechanism/Biological Background.md",
+    "Literature/eRNA & Enhancer Mechanism/Paper notes.md",
     "Literature/T-Cell-Epigenetic-Regulation/Paper notes.md",
+    "Literature/eRNA & Enhancer Mechanism",
+    "Literature/T-cells-atlas/Biological Background.md",
     "Literature/T-cells-atlas/Paper notes.md",
     "Literature/T-Cell-Epigenetic-Regulation",
     "ICB/ICB response scRNA-seq 数据收集.md",
