@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature/eRNA & Enhancer Mechanism/Biological Background.md",
+                "file": "Literature/Foundation-model/SCOPE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biological Background"
+              "title": "SCOPE"
             }
           }
         ]
@@ -190,8 +190,12 @@
   },
   "active": "e965bfcde5eb26ba",
   "lastOpenFiles": [
-    "Literature/T-Cell-Epigenetic-Regulation/Biological Background.md",
+    "Literature/Foundation-model/Compositional AI.md",
+    "Literature/Foundation-model/PaSCient.md",
+    "Literature/Foundation-model/SCOPE.md",
     "Literature/eRNA & Enhancer Mechanism/Biological Background.md",
+    "Literature/Foundation-model",
+    "Literature/T-Cell-Epigenetic-Regulation/Biological Background.md",
     "Literature/eRNA & Enhancer Mechanism/Paper notes.md",
     "Literature/T-Cell-Epigenetic-Regulation/Paper notes.md",
     "Literature/eRNA & Enhancer Mechanism",
